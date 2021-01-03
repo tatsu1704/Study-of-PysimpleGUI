@@ -1,0 +1,10 @@
+if event == sg.WINDOW_CLOSED or event == '終了':
+        break
+
+の、前半は、ウインドウのx(閉じる)に対応する。
+
+WEBアプリケーションなども作れる。
+
+
+
+
